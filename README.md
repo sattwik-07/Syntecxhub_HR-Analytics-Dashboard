@@ -1,14 +1,8 @@
-# 📊 HR Analytics Dashboard
+# HR Analytics Dashboard
 
 **Workforce attrition analysis, correlation modeling, and flight-risk scoring — in a single HTML file.**
 
-*Syntecxhub Data Analysis Internship — Task 3 · Project 2*
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat&logo=chart.js&logoColor=white)
-![No Backend](https://img.shields.io/badge/backend-none-success)
-![Offline Ready](https://img.shields.io/badge/works-offline-blueviolet)
+*Syntecxhub Data Analysis Internship — Task 3*
 
 ---
 
