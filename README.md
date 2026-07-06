@@ -32,3 +32,11 @@ Vanilla JS + Chart.js, no framework, no server. Chart.js is inlined directly int
 - [ ] Push to a public GitHub repo named `Syntecxhub_HR_Analytics_Dashboard`
 - [ ] Post on LinkedIn tagging **@Syntecxhub**
 - [ ] Submit via the internship Submission Form
+
+## 👤 Author
+
+Sattwik Sahu
+
+Submitted as part of the **Syntecxhub Internship Program** — Data Analysis Track.
+
+**Connect:** [Syntecxhub](https://www.syntecxhub.com) | `@Syntecxhub`
