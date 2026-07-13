@@ -87,12 +87,6 @@ Syntecxhub_HR_Analytics_Dashboard/
 └── README.md
 ```
 
-## Submission Checklist
-
-- [ ] Push to a public GitHub repo named `Syntecxhub_HR_Analytics_Dashboard`
-- [ ] Post on LinkedIn tagging **@Syntecxhub**
-- [ ] Submit via the internship Submission Form
-
 ## 👤 Author
 
 Sattwik Sahu
